@@ -4,12 +4,13 @@
 This repository contains implementations of different data structures in Python. Each data structure is implemented in a separate Python file along with accompanying tests.
 
 ## Table of Contents
-
+- [Linked List](./linked_list.py)
+- [Doubly Linked List](./linked_list.py)
 - [Stack](./stack.py)
 - [Queue](./queue.py)
-- [Linked List](./linked_list.py)
 - [Binary Tree](./binary_tree.py)
 - [Hash Table](./hash_table.py)
+- [Graphs](./graphs.py)
 
 ## Getting Started
 
