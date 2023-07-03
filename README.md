@@ -11,6 +11,7 @@ This repository contains implementations of different data structures in Python.
 - [Binary Tree](./binary_tree.py)
 - [Hash Table](./hash_table.py)
 - [Graphs](./graphs.py)
+- [Sorting Algorithms](./.py)
 
 ## Getting Started
 
